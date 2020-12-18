@@ -1,0 +1,13 @@
+{
+    "Balance": {
+        "ETH": {
+            "AmountHeld": "1"
+        },
+        "DAI": {
+            "AmountHeld": "1"
+        },
+        "ADA": {
+            "AmountHeld": "1"
+        }
+    }
+}
